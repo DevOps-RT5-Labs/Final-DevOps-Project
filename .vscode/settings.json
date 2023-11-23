@@ -1,0 +1,12 @@
+{
+  "conventionalCommits.scopes": [
+    "app",
+    "infra",
+    "build",
+    "ci",
+    "docs",
+    "qa",
+    "misc",
+    "monitoring"
+  ]
+}
